@@ -1,0 +1,18 @@
+@font-face{
+  font-family:"AvenirLTStd-Black";
+  src:url("fonts/AvenirLTStd-Black.eot?#iefix");
+  src:url("fonts/AvenirLTStd-Black.eot?#iefix") format("eot"),
+  url("fonts/AvenirLTStd-Black.woff") format("woff"),
+  url("fonts/AvenirLTStd-Black.ttf") format("truetype"),
+  url("fonts/AvenirLTStd-Black.svg#AvenirLTStd-Black") format("svg");
+}
+
+
+@font-face{
+  font-family:"AvenirLTStd-Book";
+  src:url("fonts/AvenirLTStd-Book.eot?#iefix");
+  src:url("fonts/AvenirLTStd-Book.eot?#iefix") format("eot"),
+  url("fonts/AvenirLTStd-Book.woff") format("woff"),
+  url("fonts/AvenirLTStd-Book.ttf") format("truetype"),
+  url("fonts/AvenirLTStd-Book.svg#AvenirLTStd-Book") format("svg");
+}

@@ -1,0 +1,35 @@
+/*COLORS VARIABLES*/
+$white: #fff;
+$black: #000;
+
+$font-size-base: 14;
+
+$fa-font-path: "../fonts/font-awesome" !default;
+
+// 16;
+$max-wrapper-width: 1920px;
+
+/*VARIABLES FOR RESPONSIVE*/
+//HD monitors
+$fhd-desktop: "(min-width: 1541px)" !default;
+$screen-fhd: 1540px !default;
+//Large-desktop Media Query
+$lg-desktop: "(min-width: 1200px) and (max-width: 1540px)" !default;
+// Desktop Media Query
+$desktop: "(min-width: 992px) and (max-width: 1199px)" !default;
+// Max desktop
+$max-desktop: "(max-width: 1199px)" !default;
+// Tablet Media Query
+$tablet: "(min-width: 768px) and (max-width: 991px)" !default;
+// Max tablet
+$max-tablet: "(max-width: 767px)" !default;
+// Mobile Media Query
+$mobile: "(min-width: 480px) and (max-width: 767px)" !default;
+// Max mobile
+$max-mobile: "(max-width: 479px)" !default;
+$x-mobile: "(max-width: 479px)" !default;
+
+// Landscape
+// Mobile
+$t-landscape: "(max-width: 1024px) and (max-height: 768px) and (orientation:landscape)" !default;
+$x-landscape: "(max-width: 767px) and (max-height: 480px) and (orientation:landscape)" !default;
